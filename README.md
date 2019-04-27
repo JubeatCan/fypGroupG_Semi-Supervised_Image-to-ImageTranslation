@@ -1,7 +1,8 @@
 # Semi-Supervised Image-to-Image Translation with Attentional Masks
 
 Report: [link](https://drive.google.com/file/d/18BkgGvCY2atl36F9s2awYVbGC_tdQR4Z/view?usp=sharing)
-Instructions for subparts are in subfolders.
+
+* Instructions for subparts are in subfolders.
 
 ## Our Structure
 
